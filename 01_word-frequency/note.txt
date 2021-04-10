@@ -1,0 +1,3 @@
+To run this file:
+
+python .\word-frequency.py .\file.txt

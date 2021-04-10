@@ -1,0 +1,3 @@
+To run this file:
+
+python .\amounts-by-customer.py .\customer-orders.csv >> .\output.txt

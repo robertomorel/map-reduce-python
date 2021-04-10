@@ -39,9 +39,11 @@ Let’s say that we want to count the number of books in a library that has 1,00
 ## Projects
 In this repository you´ll find many of python examples using map-reduce implementation
 
+### How to run
+```console
+python .\nome_do_arquivo.py .\nome_do_db.csv > nome_do_arquivo_output.txt
+```
+
 ----
 ## Lets talk
-[LinkedIn](https://www.linkedin.com/in/roberto-morel-6b9065193/)
-
-## Credits
 [LinkedIn](https://www.linkedin.com/in/roberto-morel-6b9065193/)

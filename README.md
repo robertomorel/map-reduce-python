@@ -41,7 +41,7 @@ In this repository you´ll find many of python examples using map-reduce impleme
 
 ### How to run
 ```console
-python .\nome_do_arquivo.py .\nome_do_db.csv > nome_do_arquivo_output.txt
+python .\nome_do_arquivo.py .\nome_do_db.csv >> nome_do_arquivo_output.txt
 ```
 
 ----

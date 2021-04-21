@@ -18,6 +18,7 @@ class FriendsByAge(MRJob):
   def reducer(self, key, values):
     items = list(values)
     #avg = sum(items) / len(items)
+    #yield key, min(items[0])
     yield key, (min(items), max(items))
 
 if __name__ == '__main__':

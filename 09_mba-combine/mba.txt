@@ -1,0 +1,8 @@
+crackers,icecream,coke,apple
+chicken,pizza,coke,bread
+baguette,soda,shampoo,crackers,pepsi
+baguette,cream cheese,diapers,milk
+chicken,pizza,coke,bread
+baguette,soda,crackers,pepsi
+crackers,icecream,apple,coke
+soda,shampoo,crackers,pepsi
